@@ -1,0 +1,42 @@
+.text{
+  color: rgb(239 239 239)!important;
+}
+
+.button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  margin-left: 35rem;
+}
+
+a.dropdown-toggle.nav-link {
+  color: white;
+}
+.imgcontact{
+  background-image: url(./images/contact.jpg);
+  width: 100%;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+}
+.cart1im1{
+  background-image: url(./images/img3.jpg);
+  width: 100%;
+  height:400px;
+  position: relative;
+}
+.imgcontact1{
+  background-image: url(./images/bg-01.jpg);
+  width: 100%;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+}
+.imgcontact2{
+  background-image: url(./images/footer.png);
+  width: 100%;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  border-radius: 20px;
+}
